@@ -1,6 +1,3 @@
-/*
- * Instead of reading each file sequentially, try to read all files at once, and concatenate them before printing the rle 
- */
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
